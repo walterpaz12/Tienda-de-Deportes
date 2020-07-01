@@ -1,0 +1,229 @@
+header{
+	background: #030000
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+h1{
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	font-family:Cambria;
+	font-size: 100px;
+	color: #FFFFFF;
+	padding: 20px;
+	padding-bottom: 30px;
+	border-bottom-color: #EB1518;
+	border-bottom-width: thick;
+	border-bottom-right-radius: 20px;
+    margin: auto;
+	display: block;
+	background-image: url("../img/shaq1.jpg");
+	background-position: center;
+	}
+
+h2{
+	font-family: gill sans;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;	
+	text-transform: full-width;
+	background: #EF2124;
+	color: aliceblue;
+	
+	
+}
+h2:hover{
+	transition: all 0.8s ease-in-out;
+	background: linear-gradient(to right, #EB1518, #EB1423) ;
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+.btn-mls {
+	
+ background-color: transparent;
+    border-radius: 30px;
+    font-size: 12px;
+    padding: 5px 30px;
+    text-transform: uppercase;
+
+
+}
+
+.btn-mls:hover{
+	background-color: aqua;
+	
+}
+
+#inicio{
+	display: block;
+	margin: auto;
+	background: url("../img/shaq1.jpg");
+	color: aliceblue;
+	background-repeat: no-repeat;
+	background-blend-mode: color;
+	background-size: cover;
+	background-position: center;
+	
+	
+		
+	
+}
+
+
+.btn-mlb {
+	
+  background-color: transparent;
+    border-radius: 30px;
+    font-size: 12px;
+    padding: 5px 30px;
+    text-transform: uppercase;
+
+}
+.btn-mlb:hover {
+	
+background-color: aqua;
+	
+}
+
+#tickets{
+	
+	align-content: center;
+	padding: 10% 0;
+	border-left: #1E05BB;
+	border-left-style: double;
+	padding: 10% ;
+	border-right: #1E05BB;
+	border-right-style: double;
+	
+}
+
+
+#tickets h2{
+	background: #FCF7F7;
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	
+	
+	
+	
+}
+
+.btn-ticket{
+	background: linear-gradient(to right, #7c3fdb, #800000, #808000 );
+	color: #FFFFFF;
+	text-transform: uppercase;
+	border-radius: 200px;
+	padding: 10px;
+	border: 0px;
+	letter-spacing: 5px;
+    display: block;
+	margin: auto;
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+.btn-ticket:hover{
+	
+	background: linear-gradient(to right, #7c3fdb, #3370e7, #2e73e8 );
+	transition: all 0.8s ease-in-out;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+footer{
+	
+	background: #8C3C3D;
+	font: oblique;
+	color: #FFFFFF;
+	font-family: Gill Sans;
+	font-size: 20px;
+	text-align: center;
+	background-size: cover;
+	padding: 40px;
+	
+	
+	
+	
+	
+	
+}
+
+
+#tickets img{
+	
+border-radius: 0px;	
+	border-color: #000000;
+	border-left: #1E05BB;
+	border-left-style: double;
+	padding: 10% ;
+	border-right: #1E05BB;
+	border-right-style: double;
+	
+	
+	
+}
+
+#tickets p{
+	border-left: #1E05BB;
+	border-left-style: double;
+	padding: 10% ;
+	border-right: #1E05BB;
+	border-right-style: double;
+	
+	
+	
+}
+#tickets articles{
+	
+	
+	
+	
+	border-left: #1E05BB;
+	border-left-style: double;
+	padding: 10% ;
+	border-right: #1E05BB;
+	border-right-style: double;
+	
+}
+
+#tickets h3{
+	
+	
+	
+	border-left: #1E05BB;
+	border-left-style: double;
+	padding: 10% ;
+	border-right: #1E05BB;
+	border-right-style: double;
+	
+}
+
+
